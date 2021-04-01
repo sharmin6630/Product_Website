@@ -10,9 +10,9 @@
   <img src="https://github.com/sharmin6630/Product_Website/blob/master/snapshot/home.png" title="Menu option">
 </p>
 
-- ### That webpage will consist of 10 products with name, price in BDT, and image.
+- ### Webpage consists of 10 products with name, price in BDT, and image (saved as product objects).
 
-- ### If an image is clicked on details the browser will take to that product on the Amazon website
+- ### If an image is clicked on details the browser will take to that product on the Amazon website.
 <p align="center">
   <img src="https://github.com/sharmin6630/Product_Website/blob/master/snapshot/details.png" width="700" height="600" title="Menu option">
 </p>
